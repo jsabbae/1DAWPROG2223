@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Lenguaje de Marca"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lenguaje de Marca"
+	}
+}
