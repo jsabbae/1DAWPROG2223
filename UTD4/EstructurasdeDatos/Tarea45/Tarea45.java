@@ -1,8 +1,8 @@
 package UTD4.Tarea45;
 
 public class Tarea45 {
-    public static void main(String[] args) {
-    }
+
+    
 
     public int[] insertarElemento(int[] arr, int elemento, int posicion) {
         int[] out = new int[arr.length + 1];
