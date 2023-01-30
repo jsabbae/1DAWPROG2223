@@ -24,7 +24,7 @@ public class Tarea46 {
     public static void main(String[] args) {
         System.out.println("Caracter en posición 2: " + caracterEnPosicionEmpezandoEn1("Hola mundo", 2));
         System.out.println("Número de ocurrencias de 'o': " + cuentaOcurrenciasDeUnCaracter("Hola mundo", 'o'));
-        imprimeCadenasEnOrdenAlfabético(new String[] {"Hola", "Adiós", "Buenos días"});
+        imprimeCadenasEnOrdenAlfabético(new String[] {"Bienvenido","Hola", "Adiós", "Buenos días","Buenas tardes","Buenas noches"});
         System.out.println("Codificación del texto: " + Arrays.toString(codificaTexto("Hola mundo. Adiós.")));
     }
 }
