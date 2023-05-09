@@ -1,3 +1,5 @@
+package practica7;
+
 import java.io.File;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
