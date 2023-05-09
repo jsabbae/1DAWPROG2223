@@ -1,3 +1,5 @@
+package practica7;
+
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
 import java.util.Scanner;
