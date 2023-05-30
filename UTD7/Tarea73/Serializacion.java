@@ -16,7 +16,7 @@ public class Serializacion {
 
         try {
             //Se crea el fichero
-            fos = new FileOutputStream("C:\\\\Users\\\\1DAW_2223_04\\\\Desktop\\\\Tarea72\\\\serializacion.bin");
+            fos = new FileOutputStream("C:\\\\Users\\\\1DAW_2223_13\\\\Desktop\\\\Tarea72\\\\serializacion.bin");
             salida = new ObjectOutputStream(fos);
 
             //Se escribe el objeto en el fichero
