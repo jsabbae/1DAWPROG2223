@@ -3,6 +3,9 @@ package cola;
 import javax.swing.*;
 
 public class Cola {
+    
+    // TODO: Con el Stack solo se puede obtener el último valor
+    
     private Nodo inicioCola, finalCola;
     String Cola = " ";
     public Cola(){
