@@ -4,7 +4,7 @@ public class numerosPalabras {
 
 
     public static int contarPalabrasDiferentes(String texto) {
-        String[] palabras = texto.toLowerCase().split("\\s+");  // Convertir texto a minúsculas y dividirlo en palabras
+        String[] palabras = texto.toLowerCase().split("\\s+");  
         int contador = 0;
 
         for (int i = 0; i < palabras.length; i++) {
